@@ -1,14 +1,13 @@
-****
-This is a low quality fast-written Vogel's approximation method (VAM).
+This is a Vogel's approximation method (VAM).
 This is one of the methods for obtaining the solution to the transport problem.
 Solution is NOT optimized by potential method.
 ****
-Это быстро написанный алгоритм метода Фогеля (или аппроксимасия Фогеля) -
+Алгоритм метода Фогеля (или аппроксимасия Фогеля) -
 один из методов получения начального решения транспортной задачи.
 Решение НЕ оптимизировано с помощью метода потенциалов.
-****
 
-Input data is located in 'src/main/resources/matrix.txt'
+
+Input data is located at 'src/main/resources/matrix.txt'
 
 Input:
 1. The first line contains suppliers' cells
